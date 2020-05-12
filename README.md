@@ -61,5 +61,5 @@ ImageUtils: Utility class to simplify the use of images.
 NumberUtils: Utility class to format numbers.  
 ProgressDialogHandler: Interface that defines the states for the ProgressDialog.  
 
-Constants:
+Constants:  
 Constants: Main constants for the app.
